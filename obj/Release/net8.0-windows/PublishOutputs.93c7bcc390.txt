@@ -1,0 +1,5 @@
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.exe
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.deps.json
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.runtimeconfig.json
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.pdb
