@@ -62,22 +62,22 @@
       <dsig:DigestValue>2NvAlDC16WZFs92AGwDG3goFeOEyIQQtoIi4/rx+MzU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="AutoUpdateInstalller.dll" size="6656">
+  <file name="AutoUpdateInstalller.dll" size="5632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eodhgAbsMHGLvbk4/IEpp71IXWtQ70u3ZfocivPNLxE=</dsig:DigestValue>
+      <dsig:DigestValue>MQsPK0Q4MUJNBokiJccbSy9ZZI8Waboqww5FcyBV63k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="AutoUpdateInstalller.exe" size="139264">
+  <file name="AutoUpdateInstalller.exe" size="138240">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/PGPuxcft1sNKqnQjYqtRayKaXrFzbMhtm/750z5OlI=</dsig:DigestValue>
+      <dsig:DigestValue>INnfsAGn1Rdl6C+aSCTx3QKRAryAN7ro2F+bzF6oA4U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AutoUpdateInstalller.runtimeconfig.json" size="458">

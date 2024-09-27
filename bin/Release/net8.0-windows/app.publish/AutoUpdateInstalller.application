@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/vanlykim/AutoUpdateInstalller/refs/heads/master/bin/publish/AutoUpdateInstalller.application" />
+    <deploymentProvider codebase="https://github.com/vanlykim/AutoUpdateInstalller/tree/fd0ac68cd50420c016a22306be980fc98328c174/bin/publish/AutoUpdateInstalller.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PmBPStMozZ20N4J6yL0XZHw/Uu93+RjWyuZ0Cq+rKD8=</dsig:DigestValue>
+        <dsig:DigestValue>CIoFalpWvR6Ljry2DtXialWc4t8/UvFK1iWA5fkJmlM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
