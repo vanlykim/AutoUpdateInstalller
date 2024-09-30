@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Name = "Form1";
-            Text = "v.1.0.0.0";
+            Text = "v.1.0.0.1";
             Load += Form1_Load;
             ResumeLayout(false);
         }
