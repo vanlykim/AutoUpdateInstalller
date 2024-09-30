@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y0v2e2MShtM=",
+  "dgSpecHash": "OdSefJtLsaI=",
   "success": true,
   "projectFilePath": "D:\\Coding\\.NET\\AutoUpdateInstalller\\AutoUpdateInstalller.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\U-ser\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\U-ser\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\U-ser\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
   "logs": []
 }

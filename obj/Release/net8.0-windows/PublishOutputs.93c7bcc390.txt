@@ -3,3 +3,8 @@ D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoU
 D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.deps.json
 D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.runtimeconfig.json
 D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\AutoUpdateInstalller.pdb
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\SkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\runtimes\osx\native\libSkiaSharp.dylib
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\libSkiaSharp.dll

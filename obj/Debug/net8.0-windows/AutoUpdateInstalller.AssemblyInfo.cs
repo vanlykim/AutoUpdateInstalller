@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoUpdateInstalller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+490608b0be8f0d3bc9ac22ae60b1f6476a456652")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e385a2845b7cc178f1d46309eb8fa33919a7b32d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoUpdateInstalller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoUpdateInstalller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

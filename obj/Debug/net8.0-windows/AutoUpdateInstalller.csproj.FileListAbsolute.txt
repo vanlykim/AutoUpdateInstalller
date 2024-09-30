@@ -14,3 +14,11 @@ D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\refint\AutoUpdateIn
 D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\AutoUpdateInstalller.pdb
 D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\AutoUpdateInstalller.genruntimeconfig.cache
 D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\ref\AutoUpdateInstalller.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Debug\net8.0-windows\SkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Coding\.NET\AutoUpdateInstalller\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\AutoUpdateInstalller.csproj.AssemblyReference.cache
+D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\AutoUpdateInstalller.sourcelink.json
+D:\Coding\.NET\AutoUpdateInstalller\obj\Debug\net8.0-windows\AutoUpda.B806CF08.Up2Date
