@@ -37,7 +37,7 @@
             button1.Name = "button1";
             button1.Size = new Size(217, 29);
             button1.TabIndex = 0;
-            button1.Text = "Check for updates";
+            button1.Text = "Check for updates...";
             button1.UseVisualStyleBackColor = true;
             // 
             // Form1
@@ -47,7 +47,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(button1);
             Name = "Form1";
-            Text = "v.1.0.0.15";
+            Text = "v.1.0.0.17";
             Load += Form1_Load;
             ResumeLayout(false);
         }
