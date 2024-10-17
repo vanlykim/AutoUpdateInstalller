@@ -37,7 +37,7 @@
             btnCheckForUpdates.Name = "btnCheckForUpdates";
             btnCheckForUpdates.Size = new Size(217, 29);
             btnCheckForUpdates.TabIndex = 0;
-            btnCheckForUpdates.Text = "Check for updates...";
+            btnCheckForUpdates.Text = "Check for updates";
             btnCheckForUpdates.UseVisualStyleBackColor = true;
             btnCheckForUpdates.Click += btnCheckForUpdates_Click;
             // 
@@ -48,7 +48,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(btnCheckForUpdates);
             Name = "Form1";
-            Text = "v.1.0.0.18";
+            Text = "v.1.0.0.19";
             Load += Form1_Load;
             ResumeLayout(false);
         }
