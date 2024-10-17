@@ -28,32 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            btnCheckForUpdates = new Button();
             SuspendLayout();
             // 
-            // button1
+            // btnCheckForUpdates
             // 
-            button1.Location = new Point(217, 90);
-            button1.Name = "button1";
-            button1.Size = new Size(217, 29);
-            button1.TabIndex = 0;
-            button1.Text = "Check for updates...";
-            button1.UseVisualStyleBackColor = true;
+            btnCheckForUpdates.Location = new Point(217, 90);
+            btnCheckForUpdates.Name = "btnCheckForUpdates";
+            btnCheckForUpdates.Size = new Size(217, 29);
+            btnCheckForUpdates.TabIndex = 0;
+            btnCheckForUpdates.Text = "Check for updates...";
+            btnCheckForUpdates.UseVisualStyleBackColor = true;
+            btnCheckForUpdates.Click += btnCheckForUpdates_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button1);
+            Controls.Add(btnCheckForUpdates);
             Name = "Form1";
-            Text = "v.1.0.0.17";
+            Text = "v.1.0.0.18";
             Load += Form1_Load;
             ResumeLayout(false);
         }
 
         #endregion
 
-        private Button button1;
+        private Button btnCheckForUpdates;
     }
 }

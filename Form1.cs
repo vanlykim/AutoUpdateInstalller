@@ -36,5 +36,10 @@ namespace AutoUpdateInstalller
                 }
             }
         }
+
+        private void btnCheckForUpdates_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Checking for updates");
+        }
     }
 }
